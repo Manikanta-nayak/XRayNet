@@ -1,0 +1,2 @@
+# XRayNet
+pnemonia_detection
